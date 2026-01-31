@@ -3,6 +3,7 @@
 
 This project is an interactive Power BI dashboard built to analyze Spotify music data across songs, artists, albums, popularity, and release trends.
 It provides deep insights into listening patterns, artist performance, song popularity, and content distribution using rich visual storytelling.
+
 ![Spotify logo](https://wallpapers.com/images/hd/spotify-official-trademark-eyo6d3fisof14t7t.jpg)
 # Objectives
 1.Analyze song and artist distribution on Spotify
@@ -35,10 +36,10 @@ Key Highlights:
 
 3.Songs categorized by:
 
-Album Type (Single / Album)
+  Album Type (Single / Album)
 
-Release Year
+  Release Year
 
-Explicit vs Non-Explicit
+  Explicit vs Non-Explicit
 
-Monthly popularity trend analysis
+  Monthly popularity trend analysis
