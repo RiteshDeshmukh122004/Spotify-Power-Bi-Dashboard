@@ -92,7 +92,7 @@ Insights:
 
 - Average Popularity
 
-4.Maximum & Minimum Popularity
+- Maximum & Minimum Popularity
 
 - Average Duration (Minutes)
 
@@ -108,4 +108,16 @@ Insights:
 - Dynamic cross-filtering across all visuals  
 - Drill-down analysis from artist → album → song level  
 - Insight-driven KPIs and charts  
-- Clean, modern, dashboard design  
+- Clean, modern, dashboard design
+
+# Conclusion
+
+This project demonstrates my ability to:
+
+- Work with real-world datasets
+
+- Apply DAX for business insights
+
+- Design professional dashboards
+
+- Translate raw data into actionable insights
