@@ -5,6 +5,21 @@ This project is an interactive Power BI dashboard built to analyze Spotify music
 It provides deep insights into listening patterns, artist performance, song popularity, and content distribution using rich visual storytelling.
 
 ![Spotify logo](https://upload.wikimedia.org/wikipedia/commons/5/56/Spotify_logo_horizontal_black.jpg)
+
+##  Dashboard Preview
+
+### Home Page
+![Home Dashboard](image/Home.PNG)
+
+### Overview Page
+![Overview Dasboard](image/Overview.PNG)
+
+### Artist Analysis Page
+![Artist DFashboard](image/Artist.PNG)
+
+### Song Analysis Page
+![Song Dashboard](image/Song.PNG)
+
 # Objectives
 - Analyze song and artist distribution on Spotify
 
