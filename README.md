@@ -9,16 +9,16 @@ It provides deep insights into listening patterns, artist performance, song popu
 ##  Dashboard Preview
 
 ### Home Page
-![Home Dashboard](https://github.com/RiteshDeshmukh122004/Spotify-Power-Bi-Dashboard/blob/main/Home.PNG?raw=true))
+![Home Dashboard](https://github.com/RiteshDeshmukh122004/Spotify-Power-Bi-Dashboard/blob/main/Home.PNG)
 
 ### Overview Page
-![Overview Dasboard](./image/Overview.PNG)
+![Overview Dasboard](https://github.com/RiteshDeshmukh122004/Spotify-Power-Bi-Dashboard/blob/main/Overview.PNG)
 
 ### Artist Analysis Page
-![Artist DFashboard](./image/Artist.PNG)
+![Artist DFashboard](https://github.com/RiteshDeshmukh122004/Spotify-Power-Bi-Dashboard/blob/main/Artist.PNG)
 
 ### Song Analysis Page
-![Song Dashboard](./image/Song.PNG)
+![Song Dashboard](https://github.com/RiteshDeshmukh122004/Spotify-Power-Bi-Dashboard/blob/main/Song.PNG)
 
 # Objectives
 - Analyze song and artist distribution on Spotify
