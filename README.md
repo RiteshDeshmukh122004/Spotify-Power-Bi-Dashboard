@@ -9,16 +9,16 @@ It provides deep insights into listening patterns, artist performance, song popu
 ##  Dashboard Preview
 
 ### Home Page
-![Home Dashboard](image/Home.PNG)
+![Home Dashboard](./image/Home.PNG)
 
 ### Overview Page
-![Overview Dasboard](image/Overview.PNG)
+![Overview Dasboard](./image/Overview.PNG)
 
 ### Artist Analysis Page
-![Artist DFashboard](image/Artist.PNG)
+![Artist DFashboard](./image/Artist.PNG)
 
 ### Song Analysis Page
-![Song Dashboard](image/Song.PNG)
+![Song Dashboard](./image/Song.PNG)
 
 # Objectives
 - Analyze song and artist distribution on Spotify
