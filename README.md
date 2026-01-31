@@ -9,7 +9,7 @@ It provides deep insights into listening patterns, artist performance, song popu
 ##  Dashboard Preview
 
 ### Home Page
-![Home Dashboard](./image/Home.PNG)
+![Home Dashboard](https://github.com/RiteshDeshmukh122004/Spotify-Power-Bi-Dashboard/blob/main/Home.PNG?raw=true))
 
 ### Overview Page
 ![Overview Dasboard](./image/Overview.PNG)
