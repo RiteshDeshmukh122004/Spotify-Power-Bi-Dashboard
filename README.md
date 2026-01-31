@@ -6,7 +6,7 @@ It provides deep insights into listening patterns, artist performance, song popu
 
 ![Spotify logo](https://upload.wikimedia.org/wikipedia/commons/5/56/Spotify_logo_horizontal_black.jpg)
 
-##  Dashboard Preview
+# Dashboard Preview
 
 ### Home Page
 ![Home Dashboard](https://github.com/RiteshDeshmukh122004/Spotify-Power-Bi-Dashboard/blob/main/Home.PNG)
