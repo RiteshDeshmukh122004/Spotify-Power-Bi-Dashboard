@@ -45,7 +45,7 @@ Key Highlights:
   Monthly popularity trend analysis
 
 ### Overview Page
-Insights
+Insights:
 
 1.Song count by artist
 
@@ -58,7 +58,7 @@ Insights
 5.Interactive filters for deeper exploration
 
 ### Artist Analysis Page
- Key Insights
+ Key Insights:
 
 1.Distinct songs by artist
 
@@ -71,7 +71,7 @@ Insights
 5.Detailed artist-level data table
 
 ### Song Analysis Page
- Insights
+ Insights:
 
 1.Popularity by individual song
 
@@ -82,3 +82,28 @@ Insights
 4.Song duration trends
 
 5.Release date breakdown (Year / Month / Day)
+
+# Key DAX Measures Used
+1.Distinct Song Count
+
+2.Distinct Artist Count
+
+3.Average Popularity
+
+4.Maximum & Minimum Popularity
+
+5.Average Duration (Minutes)
+
+6.Position-1 Hits per Artist
+
+7.Songs by Album Type
+
+8.Monthly & Yearly Trends
+
+# Features
+  
+- Fully interactive slicers & filters  
+- Dynamic cross-filtering across all visuals  
+- Drill-down analysis from artist → album → song level  
+- Insight-driven KPIs and charts  
+- Clean, modern, dashboard design  
