@@ -43,3 +43,41 @@ Key Highlights:
   Explicit vs Non-Explicit
 
   Monthly popularity trend analysis
+### Overview Page
+# Insights
+
+1.Song count by artist
+
+2.Total popularity by artist
+
+3.Position-1 hits distribution
+
+4.Monthly song release trends
+
+5.Interactive filters for deeper exploration
+### Artist Analysis Page
+# Key Insights
+
+1.Distinct songs by artist
+
+2.Total popularity per artist
+
+3.Number of #1 position hits
+
+4.Artist-wise performance comparison
+
+5.Detailed artist-level data table
+
+### Song Analysis Page
+
+# Insights
+
+1.Popularity by individual song
+
+2.Songs with highest chart positions
+
+3.Average & maximum popularity
+
+4.Song duration trends
+
+5.Release date breakdown (Year / Month / Day)
