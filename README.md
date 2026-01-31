@@ -43,8 +43,9 @@ Key Highlights:
   Explicit vs Non-Explicit
 
   Monthly popularity trend analysis
+
 ### Overview Page
-# Insights
+Insights
 
 1.Song count by artist
 
@@ -55,8 +56,9 @@ Key Highlights:
 4.Monthly song release trends
 
 5.Interactive filters for deeper exploration
+
 ### Artist Analysis Page
-# Key Insights
+ Key Insights
 
 1.Distinct songs by artist
 
@@ -69,8 +71,7 @@ Key Highlights:
 5.Detailed artist-level data table
 
 ### Song Analysis Page
-
-# Insights
+ Insights
 
 1.Popularity by individual song
 
