@@ -30,7 +30,7 @@ It provides deep insights into listening patterns, artist performance, song popu
 - Identify top-performing artists and songs
 
 - Study explicit vs non-explicit content trends
-- 
+  
 # Tools & Technologies
 - Power BI
 
@@ -41,7 +41,7 @@ It provides deep insights into listening patterns, artist performance, song popu
 - Data Visualization
 
 - Spotify Dataset
-- 
+ 
 # Dashboard Pages & Insights
 ### Home Page
 
